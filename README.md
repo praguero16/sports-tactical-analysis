@@ -27,4 +27,14 @@ A computer vision-based tactical analysis platform for team sports like football
 
 ---
 
+##  Note on Large Files
+
+Some large model and video files were removed from this repository to comply with GitHub's file size limits (100 MB max). These include:
+
+- `tennis/tennis_analysis/models/yolo5_last.pt` (164 MB)
+- `tennis/tennis_analysis/models/keypoints_model.pth` (90 MB)
+- `football_full/football_analysis/output_videos/output_video.avi` (76 MB)
+
+These files are not required to understand or run the core logic of the project.  
+If access to the full models or output videos is needed for evaluation, please feel free to contact me.
 
