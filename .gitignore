@@ -1,1 +1,4 @@
 tennis/tennis_analysis/yolov8x.pt
+football_full/football_analysis/output_videos/output_video.avi
+tennis/tennis_analysis/models/keypoints_model.pth
+tennis/tennis_analysis/models/yolo5_last.pt
